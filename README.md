@@ -27,7 +27,7 @@
 
 | Facebook | Telegram | Twitter | Youtube | 
 | :---: | :---: | :---: | :---: |
-| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/imsakibin007/) <p><b><a href="https://www.facebook.com/100010382497517/">sakibin</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/) <p><b><a href="https://t.me/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/ntkhang03) <p><b><a href="https://twitter.com/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/) <p><b><a href="https://www.youtube.com/c/NTKhang03">Sakibin</a><b></p>  |
+| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/imsakibin007/) <p><b><a href="https://www.facebook.com/100010382497517/">sakibin</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/) <p><b><a href="https://t.me/sakibin">SAKIBIN</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/ntkhang03) <p><b><a href="https://twitter.com/Sakibin">Sakibin</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/) <p><b><a href="https://www.youtube.com/c/NTKhang03">Sakibin</a><b></p>  |
 
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/sakibin)
