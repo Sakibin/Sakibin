@@ -3,12 +3,12 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:ffd700&height=200&section=header&text=Sakibin%20Sinha&fontSize=60&fontColor=ffd700&fontAlignY=38&desc=AI%20Developer%20%7C%20Chatbot%20Engineer%20%7C%20Automation%20Specialist&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+I'm;Love+you+Jannat)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Social Badges -->
-<a href="https://facebook.com/sakibin.dev">
+<a href="https://wa.me/8801730944412?text=Hi,%20Sakibin%F0%9F%98%98">
   <img src="https://img.shields.io/badge/Facebook-sakibin.dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 <a href="https://tiktok.com/@sakibin_">
