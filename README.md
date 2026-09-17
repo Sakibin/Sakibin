@@ -3,10 +3,7 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:ffd700&height=200&section=header&text=Sakibin%20Sinha&fontSize=60&fontColor=ffd700&fontAlignY=38&desc=AI%20Developer%20%7C%20Chatbot%20Engineer%20%7C%20Automation%20Specialist&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🤖+Building+AI-Powered+Chatbots;⚙️+Crafting+Automation+Systems;🌐+Creating+Bot+Management+Platforms;🚀+Turning+Complex+AI+Into+Simple+Tools" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <br/>
 
