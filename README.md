@@ -9,7 +9,7 @@
 
 <!-- Social Badges -->
 <a href="https://wa.me/8801730944412?text=Hi,%20Sakibin%F0%9F%98%98">
-  <img src="https://img.shields.io/badge/WhatsApp-sakibin.dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-sakibin_main-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 
