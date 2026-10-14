@@ -8,6 +8,11 @@
 <br/>
 
 <!-- Social Badges -->
+
+<a href="https://wa.me/8801842654090">
+  <img src="https://img.shields.io/badge/Sakibin-WhatsApp-00FF88?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+</a>
+
 <a href="https://wa.me/8801730944412?text=Hi,%20Sakibin%F0%9F%98%98">
   <img src="https://img.shields.io/badge/WhatsApp-sakibin_main-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
