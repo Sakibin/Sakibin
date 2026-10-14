@@ -16,6 +16,13 @@
   <img src="https://img.shields.io/badge/WhatsApp-sakibin_main-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
+<a href="https://www.facebook.com/sakibin.sinha">
+  <img src="https://img.shields.io/badge/Facebook-Sakibin%20Sinha-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://m.me/sakibin.sinha">
+  <img src="https://img.shields.io/badge/Messenger-Message%20Me-0866FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+</a>
 
 <a href="https://tiktok.com/@sakibin_">
   <img src="https://img.shields.io/badge/TikTok-@sakibin__-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
