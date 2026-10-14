@@ -9,8 +9,10 @@
 
 <!-- Social Badges -->
 <a href="https://wa.me/8801730944412?text=Hi,%20Sakibin%F0%9F%98%98">
-  <img src="https://img.shields.io/badge/Facebook-sakibin.dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-sakibin.dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+
+
 <a href="https://tiktok.com/@sakibin_">
   <img src="https://img.shields.io/badge/TikTok-@sakibin__-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
