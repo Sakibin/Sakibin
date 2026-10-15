@@ -76,7 +76,7 @@ I am a Bangladesh-based developer focused on **AI systems, chatbots, and automat
 
 <div align="center">
 
-<a href="https://sakibin.site">
+<a href="https://sakibin-app.onrender.com/home">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibinsinha&repo=sakibin-site&theme=dark&bg_color=0d0d0d&border_color=FFD700&title_color=FFD700&text_color=ffffff&icon_color=FFD700"/>
 </a>
 
