@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:ffd700&height=220&section=header&text=Sakibin%20Sinha&fontSize=62&fontColor=ffd700&fontAlignY=38&desc=AI%20Developer%20%7C%20Chatbot%20Engineer%20%7C%20Automation%20Specialist&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://sakibin.site">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=720&height=45&lines=Building+AI+systems+that+anyone+can+use;Chatbot+platforms+%7C+Automation+APIs;Maintainer+of+Node.js+Facebook+Chat+API+libraries" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=720&height=45&lines=My+love+Jannat+%E2%9D%A4%EF%B8%8F;I+love+you+forever+Jannat+%F0%9F%92%96;Sakibin+%E2%99%A1+Jannat+%E2%88%9E" alt="My love Jannat ❤️"/>
 </a>
 
 <br/>
